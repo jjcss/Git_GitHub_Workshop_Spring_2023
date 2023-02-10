@@ -2,22 +2,27 @@
 
 # Computer Science Society Club
 
-## Git and Github Demo
+## Table of Contents
+- [Beginning of Demo](#Beginning-of-Demo)
+    - [Installing Git](#Installing-Git)
+    - [Adding Git Username](#Adding-Git-Username)
+    - [Adding GitHub/Git Email (Important)](#Adding-GitHub/Git-Email-(Important))
+    - [Making default branch Main](#Making-default-branch-Main)
+    - [Connecting IDE to Github using Git](#Connecting-IDE-to-Github-using-Git)
+    - [Creating Branches](#Creating-Branches)
+    - [Creating Pull Request](#Creating-Pull-Requests)
+    - [Connect Replit Account to GitHub](#Connect-Replit-Account-to-GitHub)
+- [Git/GitHub Resources](#Git/GitHub-Resources)
+- [Git/Github Resources When Collaborating with others in one Repository](#Git/Github-Resources-When-Collaborating-with-others-in-one-Repository)
+- [Fork a Repository](#Fork-a-Repository)
 
-Date: Septembery 27th, 2022 <br>
-Zoom recording: [Click here](https://jjay-cuny.zoom.us/rec/share/MR2p9jVHp5CGxcgHtc9giRHi9qMmxejSgVepG0CXLJbHwUddJX86NQlKtABqmqT6.VvmTYV0oNDnsy694) <br>
 
-## Git/Github Resources
-Git Commands [Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) <br>
-Learn Git through a [Youtube Video](https://www.youtube.com/watch?v=tRZGeaHPoaw) <br>
+# Git/GitHub Workshop 
 
-## Git/Github Resources When Collaborating with others in one Repository
-Using Git/Github to Collaborate with others in a project [Youtube Video](https://www.youtube.com/watch?v=jhtbhSpV5YA&t=350s) <br>
-[Video Series](https://www.youtube.com/watch?v=4nyIS58ORWw) on Github Collaboration <br>
-Using [Figma](https://www.figma.com/) to create prototypes and designs of your project before you begin coding <br>
-Figma [Youtube Tuturial](https://www.youtube.com/watch?v=HZuk6Wkx_Eg) <br>
-Using [HackMD](https://hackmd.io/) to create better structured read.me files on Github <br>
-HackMD [Youtube Turorial](https://www.youtube.com/watch?v=vGXFm_Xicbg) <br>
+**Date:** Monday, February 13th, 2023 <br>
+**Description**: In this workshop you will learn about what Git and Github are, why these tools are used, and why they are so important to know and get familiar with. We’ll also be doing a demo where you can follow along. Such topics that we will go over are making commits, making branches, making pull requests and much more. Please also make sure you download Visual Studio Code and make a Github account prior to the workshop. <br>
+**Workshop Zoom Recording**: TBD <br>
+**Workshop Google Slides**: TBD <br>
 
 ---
 
@@ -137,8 +142,30 @@ HackMD [Youtube Turorial](https://www.youtube.com/watch?v=vGXFm_Xicbg) <br>
 11. In order to bring the changes into Visual Studio code, we must enter the command `git pull origin main`. Now, we can see the new changes inside of our new main branch. <br>
 12. That is all! Practice creating a branch and pull request again.
 
-### Fork a Repository
+# Connect Replit Account to GitHub
+
+
+
+## The End
+**Summary**: Congratulations on taking your first steps into learning how to use Git and GitHub.
+
+---
+
+# Git/GitHub Resources
+Git Commands [Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) <br>
+Learn Git through a [Youtube Video](https://www.youtube.com/watch?v=tRZGeaHPoaw) <br>
+
+# Git/Github Resources When Collaborating with others in one Repository
+Using Git/Github to Collaborate with others in a project [Youtube Video](https://www.youtube.com/watch?v=jhtbhSpV5YA&t=350s) <br>
+[Video Series](https://www.youtube.com/watch?v=4nyIS58ORWw) on Github Collaboration <br>
+Using [Figma](https://www.figma.com/) to create prototypes and designs of your project before you begin coding <br>
+Figma [Youtube Tuturial](https://www.youtube.com/watch?v=HZuk6Wkx_Eg) <br>
+Using [HackMD](https://hackmd.io/) to create better structured read.me files on Github <br>
+HackMD [Youtube Turorial](https://www.youtube.com/watch?v=vGXFm_Xicbg) <br>
+
+# Fork a Repository
 [Click here](https://www.youtube.com/watch?v=nT8KGYVurIU&t=426s) to learn more about forking a repository.
 
-# Connect Repl.it Account to GitHub
+
+
 
