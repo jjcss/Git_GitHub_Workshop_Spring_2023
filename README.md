@@ -109,8 +109,6 @@
 7. Go to your Github Repository that we made. You should now see all files that we added and all changes, including the commit message in your repository.<br>
 8. Practice some of these commands again.
 
-# Annie Begins (Delete when repo is done)
-
 ### Creating Branches
 1. Now, we will be creating a branch, which is basically a copy of your main branch where you will be able to add new features/new code without it affecting your main branch.
 2. To make a new branch insert the command `git checkout -b nameHere`. You can name your branch whatever you want. This command creates a copy of your main.
