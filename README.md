@@ -3,7 +3,9 @@
 # Computer Science Society Club
 
 ## Table of Contents
-- [Beginning of Demo](#Beginning-of-Demo)
+- [Git/GitHub Workshop](#Git/GitHub-Workshop)
+- [Pre Requisites](#Pre-Requisites)
+- [Git and GitHub Demo](#Git-and-GitHub-Demo)
     - [Installing Git](#Installing-Git)
     - [Adding Git Username](#Adding-Git-Username)
     - [Adding GitHub/Git Email (Important)](#Adding-GitHub/Git-Email-(Important))
@@ -26,7 +28,7 @@
 
 ---
 
-# Beginning of Demo
+# Git and GitHub Demo
 
 ### Installing Git
 1. Install [Git](https://git-scm.com/downloads) if it's not already download on your operating system. <br>
