@@ -267,8 +267,26 @@
 12. That is all! Practice creating a branch and pull request again.
 
 ## Connect Replit Account to GitHub
+Replit is a website-based IDE which is perfect for working on the go. You can work anywhere with just your account and an access to the Internet. 
+1. To connect your GitHub account to your Repl account, go to Replit[(https://replit.com/)] and click on the the "Sign Up" button on the top right corner. 
+<img width="1436" alt="Screenshot 2023-02-12 at 1 19 35 PM" src="https://user-images.githubusercontent.com/57043165/218329391-b5cb111b-86f3-410f-af96-7cf78c2a758a.png">
+You'll see this on the sign up page:
+<img width="1436" alt="Screenshot 2023-02-12 at 1 20 22 PM" src="https://user-images.githubusercontent.com/57043165/218329429-2efad086-cb8b-4edb-b101-3a04ee343ba5.png">
+2. Click on the "Continue with GitHub" button. The website will ask you to sign into your GitHub account. Once you've signed in, your GitHub account should be connected to your Replit account
+
+### Connect your project on Replit to your GitHub account
+If you would like to connect your project on Replit to your GitHub account, it is strongly recommended to follow the following steps before starting to work on your project. 
 
 
+1. Click on the blue "+ Create" button on the left side menu. The website should give you a pop up message containing a wide array of programming langauges and the ability to create your project. Once you're done, click on " + Create Repl" button. 
+
+2. Your project space should have a list of files on the Files section, a wide range of tools in the Tools section, an area to do your project, and a testing space to test your project. Click on the "Git" button in the Tools section to create and make changes to your GitHub repository from your Replit account. 
+
+3. The testing space should be on the "Git" tab. The Git space has two options: " + Create a Git Repo" and "Existing Git Repo?" buttons. Click on " + Create a Git Repo" button. 
+
+4. The Git space shows two options: "New Repo" and "Existing Repo". Click on "New Repo" button, and the website will allow you to create a new GitHub repository from your Replit account. 
+
+5. Once you're done with creating your GitHub repository, go to your GitHub account and refresh the webpage. The webpage should have the latest repository that you've created using your Replit. 
 
 ## The End
 **Summary**: Congratulations on taking your first steps into learning how to use Git and GitHub. If you'd like to continue learning more on both of these amazing tools, please continue reading below. We hope you left this workshop with more knowledge.
