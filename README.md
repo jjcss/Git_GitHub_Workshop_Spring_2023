@@ -268,23 +268,41 @@
 
 ## Connect Replit Account to GitHub
 Replit is a website-based IDE which is perfect for working on the go. You can work anywhere with just your account and an access to the Internet. 
-1. To connect your GitHub account to your Repl account, go to Replit[(https://replit.com/)] and click on the the "Sign Up" button on the top right corner. 
-<img width="1436" alt="Screenshot 2023-02-12 at 1 19 35 PM" src="https://user-images.githubusercontent.com/57043165/218329391-b5cb111b-86f3-410f-af96-7cf78c2a758a.png">
-You'll see this on the sign up page:
-<img width="1436" alt="Screenshot 2023-02-12 at 1 20 22 PM" src="https://user-images.githubusercontent.com/57043165/218329429-2efad086-cb8b-4edb-b101-3a04ee343ba5.png">
+1. To connect your GitHub account to your Replit account, go to here on Replit[(https://replit.com/)] and click on the the "Sign Up" button on the top right corner. 
+    <details>
+        <summary>You'll see this on the sign up page: </summary>
+        <img width="1436" alt="Screenshot 2023-02-12 at 1 20 22 PM" src="https://user-images.githubusercontent.com/57043165/218329429-2efad086-cb8b-4edb-b101-3a04ee343ba5.png">
+    </details>
+
 2. Click on the "Continue with GitHub" button. The website will ask you to sign into your GitHub account. Once you've signed in, your GitHub account should be connected to your Replit account
 
 ### Connect your project on Replit to your GitHub account
-If you would like to connect your project on Replit to your GitHub account, it is strongly recommended to follow the following steps before starting to work on your project. 
+If you would like to connect your project on Replit to your GitHub account, it is strongly recommended to follow the steps below before starting to work on your project. 
 
-
-1. Click on the blue "+ Create" button on the left side menu. The website should give you a pop up message containing a wide array of programming langauges and the ability to create your project. Once you're done, click on " + Create Repl" button. 
+1. Click on the blue "+ Create" button on the left side menu. The website should give you a pop up message containing a wide range of programming langauges and the ability to create your project. Once you're done, click on " + Create Repl" button. 
+    <details>
+        <summary>This is what the pop up message should like: </summary>
+        <img src="https://user-images.githubusercontent.com/57043165/218365315-29d6030b-d8f4-48c7-9dfb-670632e843fd.png" alt="drawing" width="900"/>
+    </details>
 
 2. Your project space should have a list of files on the Files section, a wide range of tools in the Tools section, an area to do your project, and a testing space to test your project. Click on the "Git" button in the Tools section to create and make changes to your GitHub repository from your Replit account. 
+    <details>
+        <summary>This is what the project space should look like:  </summary>
+        <img src="https://user-images.githubusercontent.com/57043165/218366015-ed46b90d-f14e-4463-a776-948fdf1f9c17.png" alt="drawing" width="900"/>
+    </details>
 
 3. The testing space should be on the "Git" tab. The Git space has two options: " + Create a Git Repo" and "Existing Git Repo?" buttons. Click on " + Create a Git Repo" button. 
+    <details>
+        <summary>This is what the "Git" space should look like:  </summary>
+        <img src="https://user-images.githubusercontent.com/57043165/218365826-71518442-8d7a-45d9-894d-7b7924f69226.png" alt="drawing" width="900"/>
+    </details>
 
 4. The Git space shows two options: "New Repo" and "Existing Repo". Click on "New Repo" button, and the website will allow you to create a new GitHub repository from your Replit account. 
+    <details>
+        <summary>This is what the "Git" space should have:  </summary>
+        <img src="https://user-images.githubusercontent.com/57043165/218366243-44307bb3-b5f6-4f2d-8b0d-9338ecb119ee.png" alt="drawing" width="900"/>
+    </details>
+
 
 5. Once you're done with creating your GitHub repository, go to your GitHub account and refresh the webpage. The webpage should have the latest repository that you've created using your Replit. 
 
@@ -304,10 +322,7 @@ Using [Figma](https://www.figma.com/) to create prototypes and designs of your p
 Figma [Youtube Tuturial](https://www.youtube.com/watch?v=HZuk6Wkx_Eg) <br>
 Using [HackMD](https://hackmd.io/) to create better structured read.me files on Github <br>
 HackMD [Youtube Turorial](https://www.youtube.com/watch?v=vGXFm_Xicbg) <br>
+CUNY John Jay's [CSCI 380-04 - Selected Topics in Computer Science: Digital Operations and Cybersecurity Management](https://academicworks.cuny.edu/jj_oers/24/)
 
 # Fork a Repository
 [Click here](https://www.youtube.com/watch?v=nT8KGYVurIU&t=426s) to learn more about forking a repository.
-
-
-
-
