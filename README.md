@@ -14,6 +14,7 @@
     - [Creating Branches](#Creating-Branches)
     - [Creating Pull Request](#Creating-Pull-Requests)
     - [Connect Replit Account to GitHub](#Connect-Replit-Account-to-GitHub)
+- [Common Git Errors](#Common-Git-Errors)
 - [Git/GitHub Resources](#Git/GitHub-Resources)
 - [Git/Github Resources When Collaborating with others in one Repository](#Git/Github-Resources-When-Collaborating-with-others-in-one-Repository)
 - [Fork a Repository](#Fork-a-Repository)
@@ -219,6 +220,8 @@
     <img src="https://user-images.githubusercontent.com/71786791/192189443-f26d4a5f-29f7-4e9a-8c7e-4a815c1ccbd8.png" alt="drawing" width="700" height="200"/>
     </details>
     
+> Note: If you encounter git errors around the lines of `ssh error` or `permission denied`, look at the #Common Git Errors Section near the end of this repository.
+    
 5. Now let's go back to our main branch with the command `git checkout main`. Do you notice the different code? What is different?
 6. Keep note that everything in our `main` branch is where our official code is stored.
 
@@ -310,6 +313,13 @@ If you would like to connect your project on Replit to your GitHub account, it i
 **Summary**: Congratulations on taking your first steps into learning how to use Git and GitHub. If you'd like to continue learning more on both of these amazing tools, please continue reading below. We hope you left this workshop with more knowledge.
 
 ---
+
+# Common Git Errors
+Throughout this demo, some of you may encounter git errors around the lines of `ssh error` or `permission denied`. If you do come across this error, this is relating to not having an SSH key. An SSH key gives you access credential to GitHub through git. 
+
+Thus if you get this error check out this [GitHub link](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) for more steps on how to go about setting up your SSH key. 
+
+> Note: Once you set up your SSH key, from that point on, any repositories you make will work, following all steps from the Club's demo.
 
 # Git/GitHub Resources
 Git Commands [Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) <br>
