@@ -317,6 +317,12 @@ If you would like to connect your project on Replit to your GitHub account, it i
 # Common Git Errors
 Throughout this demo, some of you may encounter git errors around the lines of `ssh error` or `permission denied`. If you do come across this error, this is relating to not having an SSH key. An SSH key gives you access credential to GitHub through git. 
 
+<details>
+        <summary>Example of an error you may come across  </summary>
+        <img src="https://i.imgur.com/ZiQ3IMl.png" alt="drawing" width="900"/>
+    </details>
+<br>
+
 Thus if you get this error check out this [GitHub link](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) for more steps on how to go about setting up your SSH key. 
 
 > Note: Once you set up your SSH key, from that point on, any repositories you make will work, following all steps from the Club's demo.
